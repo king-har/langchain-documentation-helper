@@ -169,3 +169,7 @@ chroma_db/
 
 # Course notebooks excluded from deployment repository
 *.ipynb
+
+# Local Pipenv files; Streamlit Cloud uses requirements.txt
+Pipfile
+Pipfile.lock
